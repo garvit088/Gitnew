@@ -1,3 +1,3 @@
 # Gitnew
  
-hello everyone this muy first github repo
+hello everyone this my first github repo
